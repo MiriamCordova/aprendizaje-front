@@ -1,0 +1,21 @@
+#button {
+    background-color: #007BFF;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+body {
+    background-color: #191919;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
